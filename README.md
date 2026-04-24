@@ -1,2 +1,2 @@
 # Python-Scripts
-In this repo there python automation scripts. 
+In this repo, there are Python automation scripts. 
