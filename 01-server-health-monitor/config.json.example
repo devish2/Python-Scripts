@@ -1,0 +1,20 @@
+{
+  "thresholds": {
+    "cpu_percent": 85,
+    "memory_percent": 80,
+    "disk_percent": 90
+  },
+  "check_interval_seconds": 60,
+  "slack": {
+    "enabled": true,
+    "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
+  },
+  "email": {
+    "enabled": false,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender": "your-email@gmail.com",
+    "password": "your-app-password",
+    "recipient": "alert-recipient@gmail.com"
+  }
+}

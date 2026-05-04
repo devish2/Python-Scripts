@@ -1,0 +1,4 @@
+# No external dependencies required for core functionality.
+# Standard library only: re, csv, argparse, collections, pathlib
+# Optional: install below for future Jinja2 HTML templating extension
+# jinja2==3.1.3

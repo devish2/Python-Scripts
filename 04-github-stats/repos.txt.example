@@ -1,0 +1,11 @@
+# repos.txt — one repo per line in owner/repo format
+# Lines starting with # are ignored
+
+devish2/Python-Scripts
+
+# Popular DevOps tools to track
+kubernetes/kubernetes
+hashicorp/terraform
+prometheus/prometheus
+grafana/grafana
+argoproj/argo-cd
